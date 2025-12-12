@@ -1,0 +1,15 @@
+D:\akawnting\AnoJey\AnoJey\bin\Release\AnoJey.exe
+D:\akawnting\AnoJey\AnoJey\bin\Release\AnoJey.pdb
+D:\akawnting\AnoJey\AnoJey\obj\Release\AnoJey.csproj.AssemblyReference.cache
+D:\akawnting\AnoJey\AnoJey\obj\Release\AnoJey.AccountData.resources
+D:\akawnting\AnoJey\AnoJey\obj\Release\AnoJey.Form1.resources
+D:\akawnting\AnoJey\AnoJey\obj\Release\AnoJey.Form3.resources
+D:\akawnting\AnoJey\AnoJey\obj\Release\AnoJey.FormLedger.resources
+D:\akawnting\AnoJey\AnoJey\obj\Release\AnoJey.FormBalanceSheet.resources
+D:\akawnting\AnoJey\AnoJey\obj\Release\AnoJey.FormJournal.resources
+D:\akawnting\AnoJey\AnoJey\obj\Release\AnoJey.Form2.resources
+D:\akawnting\AnoJey\AnoJey\obj\Release\AnoJey.Properties.Resources.resources
+D:\akawnting\AnoJey\AnoJey\obj\Release\AnoJey.csproj.GenerateResource.cache
+D:\akawnting\AnoJey\AnoJey\obj\Release\AnoJey.csproj.CoreCompileInputs.cache
+D:\akawnting\AnoJey\AnoJey\obj\Release\AnoJey.exe
+D:\akawnting\AnoJey\AnoJey\obj\Release\AnoJey.pdb

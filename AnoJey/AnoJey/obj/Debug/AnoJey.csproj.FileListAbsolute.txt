@@ -1,0 +1,13 @@
+D:\akawnting\AnoJey\AnoJey\obj\Debug\AnoJey.csproj.AssemblyReference.cache
+D:\akawnting\AnoJey\AnoJey\obj\Debug\AnoJey.AccountData.resources
+D:\akawnting\AnoJey\AnoJey\obj\Debug\AnoJey.Form1.resources
+D:\akawnting\AnoJey\AnoJey\obj\Debug\AnoJey.Form3.resources
+D:\akawnting\AnoJey\AnoJey\obj\Debug\AnoJey.Form4.resources
+D:\akawnting\AnoJey\AnoJey\obj\Debug\AnoJey.FormBalanceSheet.resources
+D:\akawnting\AnoJey\AnoJey\obj\Debug\AnoJey.FormJournal.resources
+D:\akawnting\AnoJey\AnoJey\obj\Debug\AnoJey.Form2.resources
+D:\akawnting\AnoJey\AnoJey\obj\Debug\AnoJey.Properties.Resources.resources
+D:\akawnting\AnoJey\AnoJey\obj\Debug\AnoJey.csproj.GenerateResource.cache
+D:\akawnting\AnoJey\AnoJey\obj\Debug\AnoJey.csproj.CoreCompileInputs.cache
+D:\akawnting\AnoJey\AnoJey\obj\Debug\AnoJey.exe
+D:\akawnting\AnoJey\AnoJey\obj\Debug\AnoJey.pdb
